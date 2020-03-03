@@ -76,13 +76,13 @@ On peut sur un setup symétrique avec du rake retourner le hanger arrière pour 
 
 * 3 la hauteur de ride
 
-Le rake positif sureleve de quelques mm la planche, permettant ainsi d'un toutpetitpetitpetit peu moins wheelbite.
+Le rake positif sureleve de quelques mm la planche, permettant ainsi d'un tout petitpetitpetit peu moins wheelbite.
 
 Les valeurs courantes de rake sont entre 3mm (sabre, DT molly (not sure)) et 9mm (ronin cast (not sure)).
 
 ### Pivot 
 
-Le pivot est l'endroit ou la partie mécanique du hanger vient se poser: il doit etre dimensionné de manière à éviter tout jeu ('slop'), et a permettre une rotation du hanger. Le pivot peut etre sphérique (Atlas, RF1...) ou cylindrique (sabre et quasi toute marque). 
+Le pivot est l'endroit ou la partie mécanique du hanger vient se poser: il doit etre dimensionné de manière à éviter tout jeu ('slop'), et a permettre une rotation du hanger. Le pivot peut etre sphérique (Atlas, RF1...) ou cylindrique (sabre et quasi toute marque) ou legerement conique. 
 
 On place entre la base et le pivot du hanger un pivot cup, piece en urethane qui permet d'assurer une rotation sans resistance ET DE SUPPORTER LE POIDS DU RIDER : le pivot cup doit etre tres resistant sous peine de se déchirer en quelques virages.
 
@@ -94,17 +94,17 @@ Les bushing seats restreingnent la déformation des bushings sur le hanger :
 
 * Trop restrictifs (profonds) :
 
-  Mauvais feeling, difficulté à tourner
+  Mauvais feeling, difficulté à tourner (randal, surtout les vieux)
   
 * Pas assez restrictifs (plats)
 
-  Facilité à basse vitesse, wooble a grande vitesse
+  Facilité à basse vitesse, wooble a grande vitesse (paris ? pas sur que ça vienne de la mais meme les savants ça wooble)
 
 * Pas assez précis
 
   Si le bushing bouge sur le hanger entre deux virages, ça peut aboutir a un mauvais feeling, perte de confiance et wooble
   
-  ***Les bushin seat doivent limiter au minimum la déformation des bushings, mais les maintenir précisement en place***
+  ***Les bushing seats doivent limiter au minimum la déformation des bushings, mais les maintenir précisement en place***
 
 ### Insert
 
@@ -130,4 +130,4 @@ En règle générale :
 
 * dancing : Question de confort, bushings tendres car besoin de carving et base à haut degré (<90a).
 
-***Note importante*** : plus le hanger est étroit, moins l'effet de levier est important, c'est a dire que sur un 180mm des bushings en 90 paraîtront beaucoup plus mous que sur un 120mm.
+***Note importante*** : plus le hanger est étroit, moins l'effet de levier est important, c'est a dire que sur un 180mm des bushings en 90 paraîtront beaucoup plus mous que sur un 120mm (d'ou le 85 a l'avant narrow, ça donne l'impression d'avoir 90 en normal).
