@@ -36,28 +36,28 @@ Les bases modernes sont généralement assez larges pour ne pas nécessiter de w
 * Dancing
 
   Symétrique, généralement entre 44° et 50°.
-  
-  ## Hanger
-  
-  ### Largueur
-  
-  Un setup est 'bien adapté' si la distance entre les levres extérieures des roues est égale ou très légèrement supérieure à la largueur de la planche.
-  
-  * Freeride
-  
-    Le standard actuel est 160mm pour le freeride, 180 est trop large pour la majorité des ensembles roues/planche sur le marché.
-    
-  * Downhill
-  
-    La 'moyenne raisonnable' de largeur des trucs orientés downhill est de 140mm. En revanche on trouve des setups très efficaces jusqu'à 108mm. On peut prendre comme plage de référence de 120mm à 150mm pour des trucks orientés slalom/downhill (mode actuelle). A noter que les arsenal 160 restent d'éxcellents trucks de downhill 'hors compétition'.
  
- * Dancing 
+## Hanger
+  
+### Largueur
+  
+Un setup est 'bien adapté' si la distance entre les levres extérieures des roues est égale ou très légèrement supérieure à la largueur de la planche.
+  
+* Freeride
+  
+  Le standard actuel est 160mm pour le freeride, 180 est trop large pour la majorité des ensembles roues/planche sur le marché.
+    
+* Downhill
+  
+  La 'moyenne raisonnable' de largeur des trucs orientés downhill est de 140mm. En revanche on trouve des setups très efficaces jusqu'à 108mm. On peut prendre comme plage de référence de 120mm à 150mm pour des trucks orientés slalom/downhill (mode actuelle). A noter que les arsenal 160 restent d'éxcellents trucks de downhill 'hors compétition'.
+ 
+* Dancing 
  
   Les setups de dancing cherchent la légèreté/solidité, et ont donc des petites roues : 160mm et 180mm sont les largueurs les plus fréquentes.
   
- ### Axe
+### Axe
  
- Deux sortes, traversant ou fixé au hanger : l'axe est par définition une des pieces qui doivent être les plus résistantes d'un truck, un axe traversant rendra un truck plus resistant à la torsion, recoupable (principalement pour le DH), mais aussi plus lourd. Cf les trucks ronins, atlas...
+Deux sortes, traversant ou fixé au hanger : l'axe est par définition une des pieces qui doivent être les plus résistantes d'un truck, un axe traversant rendra un truck plus resistant à la torsion, recoupable (principalement pour le DH), mais aussi plus lourd. Cf les trucks ronins, atlas...
 Les trucks Dont trip, aera, skoa... ont des axes amovibles, qui peuvent être changés, mais la procédure est complexe.
 
 ### Rake 
