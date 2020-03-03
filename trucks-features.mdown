@@ -126,6 +126,8 @@ En règle générale :
 
 * DH : Bushings très tendres à l'avant (autour de 85a), tres durs à l'arrière (>93a)
 
+  Ronin a inventé les tall barrels, qui sont des bushings un peu plus hauts qui permettent autant de stabilité mais plus de lean, c'est devenu un standard dans le DH, et une grande partie des freeriders roulent en tall également
+
 * dancing : Question de confort, bushings tendres car besoin de carving et base à haut degré (<90a).
 
 ***Note importante*** : plus le hanger est étroit, moins l'effet de levier est important, c'est a dire que sur un 180mm des bushings en 90 paraîtront beaucoup plus mous que sur un 120mm.
