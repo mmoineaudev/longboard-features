@@ -14,6 +14,10 @@
 
 ## Base
 
+### Washer 
+
+Les bases modernes sont généralement assez larges pour ne pas nécessiter de washer boardside (on pose le bushing boardside directement dessus).
+
 ### Angle
 
 * Freeride
@@ -51,12 +55,14 @@
  
   Les setups de dancing cherchent la légèreté/solidité, et ont donc des petites roues : 160mm et 180mm sont les largueurs les plus fréquentes.
   
- ## Axe
+ ### Axe
  
  Deux sortes, traversant ou fixé au hanger : l'axe est par définition une des pieces qui doivent être les plus résistantes d'un truck, un axe traversant rendra un truck plus resistant à la torsion, recoupable (principalement pour le DH), mais aussi plus lourd. Cf les trucks ronins, atlas...
 Les trucks Dont trip, aera, skoa... ont des axes amovibles, qui peuvent être changés, mais la procédure est complexe.
 
-## Rake 
+### Rake 
+
+= ***plus courte distance entre le plan à l'intersection des bushings et la droite formée par l'axe.***
 
 Le rake influe sur : 
 
@@ -74,8 +80,52 @@ Le rake positif sureleve de quelques mm la planche, permettant ainsi d'un toutpe
 
 Les valeurs courantes de rake sont entre 3mm (sabre, DT molly (not sure)) et 9mm (ronin cast (not sure)).
 
+### Pivot 
+
+Le pivot est l'endroit ou la partie mécanique du hanger vient se poser: il doit etre dimensionné de manière à éviter tout jeu ('slop'), et a permettre une rotation du hanger. Le pivot peut etre sphérique (Atlas, RF1...) ou cylindrique (sabre et quasi toute marque). 
+
+On place entre la base et le pivot du hanger un pivot cup, piece en urethane qui permet d'assurer une rotation sans resistance ET DE SUPPORTER LE POIDS DU RIDER : le pivot cup doit etre tres resistant sous peine de se déchirer en quelques virages.
+
+La stratégie Don't trip est d'utiliser des pivots cups riptide par défaut, ceux ci étant les plus classiques et résistants sur le marché.
+
+### Bushing seat
+
+Les bushing seats restreingnent la déformation des bushings sur le hanger : 
+
+* Trop restrictifs (profonds) :
+
+  Mauvais feeling, difficulté à tourner
+  
+* Pas assez restrictifs (plats)
+
+  Facilité à basse vitesse, wooble a grande vitesse
+
+* Pas assez précis
+
+  Si le bushing bouge sur le hanger entre deux virages, ça peut aboutir a un mauvais feeling, perte de confiance et wooble
+  
+  ***Les bushin seat doivent limiter au minimum la déformation des bushings, mais les maintenir précisement en place***
+
+### Insert
+
+  Certains trucks, nottemment rogues/don't trip, tiennent leur exceptionnelle stabilité de l'utilisation d'un insert (bague d'urethane qui entoure le kingpin au niveau du hanger, entre les bushings. Ca a pour effet de limiter enormément le slop, et donc le wooble.
+
 ## Kingpin
 
 Piece la plus sollicitée d'un truck (surtout en slalom (et en dancing ?)), elle doit etre exceptionnellement résistante et adaptée en longueur au type de bushings utilisé (sur mes randal 1 c'est juste assez long c'est un ENFER de les bricoler).
 
-*Cette piece doit avoir 0 (mais alors 0)* jeu sous peine des pire woobles et surprises.
+***Cette piece doit avoir 0 (mais alors 0) jeu*** sous peine des pire woobles et surprises.
+
+## Bushings
+
+Les bushings sont choisi en fonction de l'angle d'une base, et du poids du rider.
+
+En règle générale :
+
+* Freeride : bushings durs, 90a à 95a car angles modérés
+
+* DH : Bushings très tendres à l'avant (autour de 85a), tres durs à l'arrière (>93a)
+
+* dancing : Question de confort, bushings tendres car besoin de carving et base à haut degré (<90a).
+
+***Note importante*** : plus le hanger est étroit, moins l'effet de levier est important, c'est a dire que sur un 180mm des bushings en 90 paraîtront beaucoup plus mous que sur un 120mm.
