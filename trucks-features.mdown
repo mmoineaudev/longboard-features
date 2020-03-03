@@ -72,7 +72,7 @@ Pas d'avantage démontré en performance, mais un ressenti plus 'surfy', l'impre
 
 * 2 la modularité 
 
-On peut sur un setup symétrique avec du rake retourner le hanger arrière pour davantage de stabilité a haute vitesse (ou les hanger pour plus de lean).
+On peut sur un setup symétrique avec du rake retourner le hanger arrière pour davantage de stabilité a haute vitesse (ou les deux hangers pour plus de lean).
 
 * 3 la hauteur de ride
 
