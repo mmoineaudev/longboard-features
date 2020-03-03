@@ -114,7 +114,7 @@ Les bushing seats restreingnent la déformation des bushings sur le hanger :
 
 Piece la plus sollicitée d'un truck (surtout en slalom (et en dancing ?)), elle doit etre exceptionnellement résistante et adaptée en longueur au type de bushings utilisé (sur mes randal 1 c'est juste assez long c'est un ENFER de les bricoler).
 
-***Cette piece doit avoir 0 (mais alors 0) jeu*** sous peine des pire woobles et surprises.
+***Cette piece doit avoir 0 (mais alors 0) jeu avec la base*** sous peine des pires woobles et surprises.
 
 ## Bushings
 
