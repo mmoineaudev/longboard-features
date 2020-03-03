@@ -10,16 +10,18 @@
 
 * Axes
 
+* Bushings
+
 ## Base
 
-* Angle
+### Angle
 
-Freeride
+* Freeride
 
   Généralement entre 38 et 47°, 45 étant le plus répendu car permet un lean proportionnel au virage (38 lean beaucoup, bien pour les standups mais peu réactif, alors que 47 lean peu mais est plus dynamique, plus joueur)
   On peut rouler en freeride en symétrique, ou en splitté, avec généralement - de 10°/15° de différence entre la base avant et arrière.
 
-Downhill
+* Downhill
 
   Truck avant :
   Généralement très réactif, entre 40° et 55° (50° c'est déjà beaucoup), pour permettre d'enchainer rapidement des changements de direction
@@ -27,7 +29,53 @@ Downhill
   Truck arrière :
   Généralement splitté, moins réactif que l'avant pour gain d'accroche et de stabilité, entre 15° (25° c'est déjà très peu) et 40°, mais toujours < à l'angle avant.
 
-Dancing 
+* Dancing
+
   Symétrique, généralement entre 44° et 50°.
   
+  ## Hanger
   
+  ### Largueur
+  
+  Un setup est 'bien adapté' si la distance entre les levres extérieures des roues est égale ou très légèrement supérieure à la largueur de la planche.
+  
+  * Freeride
+  
+    Le standard actuel est 160mm pour le freeride, 180 est trop large pour la majorité des ensembles roues/planche sur le marché.
+    
+  * Downhill
+  
+    La 'moyenne raisonnable' de largeur des trucs orientés downhill est de 140mm. En revanche on trouve des setups très efficaces jusqu'à 108mm. On peut prendre comme plage de référence de 120mm à 150mm pour des trucks orientés slalom/downhill (mode actuelle). A noter que les arsenal 160 restent d'éxcellents trucks de downhill 'hors compétition'.
+ 
+ * Dancing 
+ 
+  Les setups de dancing cherchent la légèreté/solidité, et ont donc des petites roues : 160mm et 180mm sont les largueurs les plus fréquentes.
+  
+ ## Axe
+ 
+ Deux sortes, traversant ou fixé au hanger : l'axe est par définition une des pieces qui doivent être les plus résistantes d'un truck, un axe traversant rendra un truck plus resistant à la torsion, recoupable (principalement pour le DH), mais aussi plus lourd. Cf les trucks ronins, atlas...
+Les trucks Dont trip, aera, skoa... ont des axes amovibles, qui peuvent être changés, mais la procédure est complexe.
+
+## Rake 
+
+Le rake influe sur : 
+
+* 1 la sensation
+
+Pas d'avantage démontré en performance, mais un ressenti plus 'surfy', l'impression de virage s'accroit avec le lean. Les trucks sans rake deviennent rare, mais sont parfois supposés meilleurs pour le freeride (je suis pas convaincu moi-même).
+
+* 2 la modularité 
+
+On peut sur un setup symétrique avec du rake retourner le hanger arrière pour davantage de stabilité a haute vitesse (ou les hanger pour plus de lean).
+
+* 3 la hauteur de ride
+
+Le rake positif sureleve de quelques mm la planche, permettant ainsi d'un toutpetitpetitpetit peu moins wheelbite.
+
+Les valeurs courantes de rake sont entre 3mm (sabre, DT molly (not sure)) et 9mm (ronin cast (not sure)).
+
+## Kingpin
+
+Piece la plus sollicitée d'un truck (surtout en slalom (et en dancing ?)), elle doit etre exceptionnellement résistante et adaptée en longueur au type de bushings utilisé (sur mes randal 1 c'est juste assez long c'est un ENFER de les bricoler).
+
+*Cette piece doit avoir 0 (mais alors 0)* jeu sous peine des pire woobles et surprises.
