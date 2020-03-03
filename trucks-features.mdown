@@ -108,7 +108,9 @@ Les bushing seats restreingnent la déformation des bushings sur le hanger :
 
 ## Insert
 
-  Certains trucks, nottemment rogues/don't trip, tiennent leur exceptionnelle stabilité de l'utilisation d'un insert (bague d'urethane qui entoure le kingpin au niveau du hanger, entre les bushings. Ca a pour effet de limiter enormément le slop, et donc le wooble.
+Certains trucks, nottemment rogues/don't trip, tiennent leur exceptionnelle stabilité de l'utilisation d'un insert (bague d'urethane qui entoure le kingpin au niveau du hanger, entre les bushings). 
+
+Ca a pour effet de limiter enormément le slop, et donc le wooble.
 
 # Kingpin
 
