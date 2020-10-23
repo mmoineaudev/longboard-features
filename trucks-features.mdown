@@ -24,14 +24,18 @@ Les bases modernes sont généralement assez larges pour ne pas nécessiter de w
 
   Généralement entre 38 et 47°, 45 étant le plus répandu car permet un lean proportionnel au virage (38 lean beaucoup, bien pour les standups mais peu réactif, alors que 47 lean peu mais est plus dynamique, plus joueur)
   On peut rouler en freeride en symétrique, ou en splitté, avec généralement - de 10°/15° de différence entre la base avant et arrière.
+Mon setup freeride sur la chiller : 42° 34°, 90/93a front 93/95a back, 170mm
 
 * Downhill
 
   Truck avant :
   Généralement très réactif, entre 40° et 55° (50° c'est déjà beaucoup), pour permettre d'enchainer rapidement des changements de direction
+ 
 
   Truck arrière :
   Généralement splitté, moins réactif que l'avant pour gain d'accroche et de stabilité, entre 15° (25° c'est déjà très peu) et 40°, mais toujours < à l'angle avant.
+  
+   Mon setup dh sur la seed : 50° 20°, 88/88a front 95/95a back, 128mm
 
 * Dancing
 
