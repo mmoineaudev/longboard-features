@@ -44,7 +44,7 @@ Mon setup freeride sur la chiller : 42° 34°, 90/93a front 93/95a back, 170mm
  
 # Hanger
   
-## Largueur
+## Largeur
   
 Un setup est 'bien adapté' si la distance entre les levres extérieures des roues est égale ou très légèrement supérieure à la largueur de la planche.
   
