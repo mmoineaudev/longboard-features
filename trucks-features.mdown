@@ -24,6 +24,7 @@ Les bases modernes sont généralement assez larges pour ne pas nécessiter de w
 
   Généralement entre 38 et 47°, 45 étant le plus répandu car permet un lean proportionnel au virage (38 lean beaucoup, bien pour les standups mais peu réactif, alors que 47 lean peu mais est plus dynamique, plus joueur)
   On peut rouler en freeride en symétrique, ou en splitté, avec généralement - de 10°/15° de différence entre la base avant et arrière.
+  
 Mon setup freeride sur la chiller : 42° 34°, 90/93a front 93/95a back, 170mm
 
 * Downhill
