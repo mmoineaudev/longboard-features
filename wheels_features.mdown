@@ -1,56 +1,152 @@
 # DH
 
-* Contact patch : [50mm-65mm}
+* Contact patch : [55mm-70mm}
+
+70 mm c'est les magnums, au dessus ça parait beaucoup. Les speed vents (très fines) font 54mm.
 
 * Diametre : [70mm-85mm]
 
-* bearing seat :
+La vitesse de pointe est recherchée, et pour cela on a besoin d'un gros diamètre. Sur les tracés les plus techniques (et moins rapides) on peut envisager du 72mm, pour avoir un gain d'accélération.
+
+* bearing seat : 
+
+Parfois centerset, souvent très légèrement offset, pour faciliter les slides vu que c'est des gros contact patch. Très légèrement offet car les setup modernes sont étroits, faire une roue sideset c'est faire perdre l'avantage en grip de tous ceux qui roulent en narrow trucks !
 
 * Ce que les gens aiment :
 
-* Ce que les gens détestent !>
+Un glacage qui dure !
+
+Une rollspeed importante 
+
+Une roue légère (accélération)
+
+Des duros faibles (- de 78a, 80 c'est trop)
+
+Un slide consistant (cf venom) avec du pouvoir de freinage : on eut slider le moins longtemps possible)
+
+Optionnel : des thanelines, optionnel car ca joue fortement sur la durabilité
+
+Avoir beaucoup de gomme, pour freeride longtemps après avoir usé le glacage
+
+* Ce que les gens détestent :
+
+Les chunks
+
+les flatspots
+
+un offset trop impordant
+
+Le bruit lorsque ça slide 
+
+la surglisse (quand la glisse augment exponentiellement lorsqu'on slide longtemps)
 
 # Freeride
 
-* Contact patch : [40mm-50mm]
+* Contact patch : [40mm-55mm]
 
 * Diametre : [60mm-75mm]
 
-* bearing seat :
+* bearing seat : 
+
+centerset dans l'idéal (on peut tourner les roues pour éviter l'usure irrégulière), ou légèrement offset
 
 * Ce que les gens aiment :
 
-* Ce que les gens détestent !>
+Les thanelines
+
+une glisse homogène (le plus important techniquement, sinon on ne peut pas faire de long slides)
+
+La durabilité (50e le set mais certaines ne durent que 4h...)
+
+Les prix bas (quand on veut faire des thanelines on mange des roues)
+
+Une rollspeed importante car ça donne un feeling de "flottement", un peu comme dans la poudreuse en ski
+
+(optionnel) le glaçage, ceux avec un bon niveau apprécieront toujours d'accrocher plus au début
+
+* Ce que les gens détestent :
+
+Les flatspots
+
+les duros trop élevées (>80a)
+
+Le feeling "icy", a part en techslide on a toujours besoin d'avoir un freinage consistant (pas "important" mais consistant, c'est ça qui donne la maitrise lors des longs slides)
+
+Les flatspots
+
+Les levres carrées, car ça nuit au feeling a l'initiation de slide
 
 # LDP
 
 * Contact patch : [40mm-60mm]
 
+On a besoin de limiter les frottements, d'ou le CP faible
+
 * Diametre : [70mm-90mm]
+
+On cherche l'inertie, la roue doit tourner longtemps a chaque fois qu'on push, et conserver la vitesse lors du pump
 
 * bearing seat :
 
+offset : la majorité des setups sont très mous, et une grosse problématique est le wheelbite, pour cela le centerset est assez déconseillé, sinon jean-michel beernett/poppy va devoir changer ses bushings
+
 * Ce que les gens aiment :
 
-* Ce que les gens détestent !>
+La légèreté (facilité d'accélération)
+
+Le glaçage, car on n'use pas les roues dans cette dicipline, et que ça a une grande valeur en pumping
+
+les lèvres avec un chanfrin, car ca permet d'éviter de se faire "guider" par les fissures (j'ai failli m'exploser une fois à cause de ça)
+
+La rollspeed, cf ce que les gens détestent
+
+L'absorbsion des vibrations (<=> duro entre 75a et 82a) (75 c'est très mou, 82 c'est perçu comme plutôt dur)
+
+* Ce que les gens détestent :
+
+l'impression de "colle", quand la roue s'écrase sur le sol et qu'on perds de l'énergie a cause de cette déformation
+
+Le poids
+
 
 # Autre
 
-* Contact patch :
+* Contact patch : freeride, on veut peu de frottement
 
-* Diametre :
+* Diametre : [50mm-72mm]
 
-* bearing seat :
+* bearing seat : centerset, ils savent pas slider dans tous les cas et sont en topmount 
 
 ## Dancing
 
-* Ce que les gens aiment :
+* Ce que les gens aiment : 
 
-* Ce que les gens détestent !>
+légèreté
+
+rollspeed
+
+solidité
+
+* Ce que les gens détestent :
+
+chunks
+
+core qui casse
 
 ## Cruising
 
-
 * Ce que les gens aiment :
 
-* Ce que les gens détestent !>
+rollspeed
+
+glacage
+
+design (les gommes transparentes c'est joli)
+
+absorption des vibrations
+
+* Ce que les gens détestent :
+
+chunks
+
+gommes trop dure
